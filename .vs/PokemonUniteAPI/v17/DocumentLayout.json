@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\services\\pokemonuniteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:services\\pokemonuniteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\migrations\\20241225170905_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:migrations\\20241225170905_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\models\\db\\pokemonunite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:models\\db\\pokemonunite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\controllers\\pokemonunitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:controllers\\pokemonunitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|c:\\users\\dell 7390\\documents\\csharp lanjutan\\pokemonuniteapi\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B14DC-38AB-47A1-B13F-F781ED092EEE}|PokemonUniteAPI.csproj|solutionrelative:models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241225170905_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Migrations\\20241225170905_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241225170905_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Migrations\\20241225170905_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20241225170905_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:09:05.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:58:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonUniteController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Controllers\\PokemonUniteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PokemonUniteController.cs",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Controllers\\PokemonUniteController.cs",
+              "RelativeToolTip": "Controllers\\PokemonUniteController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:53:36.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonUniteService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Services\\PokemonUniteService.cs",
+              "RelativeDocumentMoniker": "Services\\PokemonUniteService.cs",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Services\\PokemonUniteService.cs",
+              "RelativeToolTip": "Services\\PokemonUniteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:49:32.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "Models\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:45:25.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonUnite.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Models\\DB\\PokemonUnite.cs",
+              "RelativeDocumentMoniker": "Models\\DB\\PokemonUnite.cs",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\Models\\DB\\PokemonUnite.cs",
+              "RelativeToolTip": "Models\\DB\\PokemonUnite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:43:23.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL 7390\\Documents\\CSharp Lanjutan\\PokemonUniteAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T16:56:23.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

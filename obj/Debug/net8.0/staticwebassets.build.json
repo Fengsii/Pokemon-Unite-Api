@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I0LZ4UKbvF70DJcke+XfOqiIKT+gpUcCLBHE8xilWvg=",
+  "Source": "PokemonUniteAPI",
+  "BasePath": "_content/PokemonUniteAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
